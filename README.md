@@ -18,7 +18,7 @@
 - `/PCB` - 嘉立创工程文件
 - `/3D-Model` - SolidWorks STL
 - `/Images` - 图片
-- `/Docs` - 项目笔记（详细内容请查看项目笔记）
+- `/Docs` - 项目笔记（详细内容请查看项目笔记https://github.com/NIYWEN/pocket-linux-pc/blob/main/Docs/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0.md）
 
 ## 许可证
 GPL v3
