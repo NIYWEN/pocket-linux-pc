@@ -1,5 +1,3 @@
-# poket-linux-pc
-一台基于核桃派 Zero W 的3.5寸掌上Linux 命令行电脑。
 # Pocket Linux PC (代号：装逼机一号)
 
 基于核桃派Zero W的便携式Linux命令行掌机
