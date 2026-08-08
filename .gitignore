@@ -36,6 +36,11 @@ fp-info-cache
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
 
+# SolidWorks 临时文件
+*.swp
+*.slddrt
+~$*
+*.tmp
 # Local git-based history (KiCad 9.0+)
 .history
 
